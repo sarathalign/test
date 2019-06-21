@@ -1,6 +1,6 @@
 <?php
 $amount=2;
-$from_Currency='USD';
+$from_Currency='USD'
 $to_Currency='INR';
  $amount = urlencode($amount);
   $from_Currency = urlencode($from_Currency);
